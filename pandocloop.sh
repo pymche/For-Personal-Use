@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /Users/melaniecheung/Documents/pandoc-test
+cd /Users/Documents/pandoc-test
 
 created_time=$(date +"%Y%m%d_%H%M%p")
 mkdir $created_time
